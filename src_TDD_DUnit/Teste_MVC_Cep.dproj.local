@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/02/16 02:41:36.000.501,=C:\Users\Luccas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/14 01:45:46.000.713,=C:\Users\Luccas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/14 01:46:25.000.112,C:\Users\Luccas\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Luccas\Desktop\APICep\src_TDD_DUnit\Unit1.pas</Transaction>
+    <Transaction>2025/07/14 01:49:42.000.878,C:\Users\Luccas\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Luccas\Desktop\APICep\src_TDD_DUnit\Teste_MVC_Cep.dproj</Transaction>
+    <Transaction>2025/07/14 01:52:26.000.740,=C:\Users\Luccas\Desktop\APICep\src\MVC\Controller\Cep.Controller.pas</Transaction>
+    <Transaction>2025/07/14 01:52:26.000.672,=C:\Users\Luccas\Desktop\APICep\src\MVC\Controller\Cep.Controller.Interfaces.pas</Transaction>
+    <Transaction>2025/07/14 01:52:53.000.885,=C:\Users\Luccas\Desktop\APICep\src\MVC\Controller\Services\Strategy\Cep.Service.Strategy.ApiCep.pas</Transaction>
+    <Transaction>2025/07/14 01:52:53.000.927,=C:\Users\Luccas\Desktop\APICep\src\MVC\Controller\Services\Strategy\Cep.Service.Strategy.AwesomeApi.pas</Transaction>
+    <Transaction>2025/07/14 01:52:53.000.989,=C:\Users\Luccas\Desktop\APICep\src\MVC\Controller\Services\Strategy\Cep.Service.Strategy.ViaCep.pas</Transaction>
+    <Transaction>2025/07/14 01:52:53.000.956,=C:\Users\Luccas\Desktop\APICep\src\MVC\Controller\Services\Strategy\Cep.Service.Strategy.interfaces.pas</Transaction>
+    <Transaction>2025/07/14 01:53:05.000.349,=C:\Users\Luccas\Desktop\APICep\src\MVC\Controller\Services\Cep.Service.Interfaces.pas</Transaction>
+    <Transaction>2025/07/14 01:53:05.000.419,=C:\Users\Luccas\Desktop\APICep\src\MVC\Controller\Services\Cep.Service.pas</Transaction>
+    <Transaction>2025/07/14 01:53:20.000.133,=C:\Users\Luccas\Desktop\APICep\src\MVC\Model\Entity\Cep.Entity.impl.pas</Transaction>
+    <Transaction>2025/07/14 01:53:20.000.180,=C:\Users\Luccas\Desktop\APICep\src\MVC\Model\Entity\Cep.Model.entity.Interfaces.pas</Transaction>
+    <Transaction>2025/07/14 01:53:20.000.225,=C:\Users\Luccas\Desktop\APICep\src\MVC\Model\Entity\Cep.Model.Entity.pas</Transaction>
+    <Transaction>2025/07/14 01:53:51.000.039,C:\Users\Luccas\Desktop\APICep\src_TDD_DUnit\Unit1.pas=C:\Users\Luccas\Desktop\APICep\src_TDD_DUnit\Teste.Principal.pas</Transaction>
+  </Transactions>
+</BorlandProject>

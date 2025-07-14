@@ -1,0 +1,2 @@
+VERSION dmvcframework-3.4.2-magnesium
+BUILD DATETIME 2025-02-14T12:03:16.005657

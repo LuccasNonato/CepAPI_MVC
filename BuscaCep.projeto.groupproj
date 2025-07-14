@@ -1,0 +1,60 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{A78CD8E4-F45D-41CF-92FB-9245F2DD9CBA}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="src\MVC\BuscaCep.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="src_APIMVCFramework\BuscaCepApi.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="src_TDD_DUnit\Teste_MVC_Cep.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="BuscaCep">
+        <MSBuild Projects="src\MVC\BuscaCep.dproj"/>
+    </Target>
+    <Target Name="BuscaCep:Clean">
+        <MSBuild Projects="src\MVC\BuscaCep.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="BuscaCep:Make">
+        <MSBuild Projects="src\MVC\BuscaCep.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="BuscaCepApi">
+        <MSBuild Projects="src_APIMVCFramework\BuscaCepApi.dproj"/>
+    </Target>
+    <Target Name="BuscaCepApi:Clean">
+        <MSBuild Projects="src_APIMVCFramework\BuscaCepApi.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="BuscaCepApi:Make">
+        <MSBuild Projects="src_APIMVCFramework\BuscaCepApi.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Teste_MVC_Cep">
+        <MSBuild Projects="src_TDD_DUnit\Teste_MVC_Cep.dproj"/>
+    </Target>
+    <Target Name="Teste_MVC_Cep:Clean">
+        <MSBuild Projects="src_TDD_DUnit\Teste_MVC_Cep.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Teste_MVC_Cep:Make">
+        <MSBuild Projects="src_TDD_DUnit\Teste_MVC_Cep.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="BuscaCep;BuscaCepApi;Teste_MVC_Cep"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="BuscaCep:Clean;BuscaCepApi:Clean;Teste_MVC_Cep:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="BuscaCep:Make;BuscaCepApi:Make;Teste_MVC_Cep:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

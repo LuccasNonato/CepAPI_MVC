@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/02/16 02:41:36.000.501,=C:\Users\Luccas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/10 22:46:46.000.758,=C:\Users\Luccas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/10 22:46:47.000.877,=C:\Users\Luccas\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2025/07/10 22:46:47.000.809,=C:\Users\Luccas\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/10 22:47:00.000.437,=C:\Users\Luccas\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2025/07/10 22:48:53.000.485,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\Unit4.pas=C:\Users\Luccas\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2025/07/10 22:48:53.000.485,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\Unit4.dfm=C:\Users\Luccas\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2025/07/10 22:48:55.000.918,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\Unit3.pas=C:\Users\Luccas\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2025/07/10 22:48:57.000.447,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\Unit2.pas=C:\Users\Luccas\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/07/10 22:48:59.000.107,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\Unit1.pas=C:\Users\Luccas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/10 22:49:11.000.604,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\BuscaCepApi.dproj=C:\Users\Luccas\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/12 18:27:42.000.678,=C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\Unit5.pas</Transaction>
+    <Transaction>2025/07/12 18:28:30.000.232,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\BuscaCep.pas=C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\Unit5.pas</Transaction>
+    <Transaction>2025/07/12 18:29:47.000.120,=C:\Users\Luccas\Desktop\Teste Principal\src\MVC\Model\Entity\Cep.Entity.impl.pas</Transaction>
+    <Transaction>2025/07/12 18:29:47.000.266,=C:\Users\Luccas\Desktop\Teste Principal\src\MVC\Model\Entity\Cep.Model.Entity.pas</Transaction>
+    <Transaction>2025/07/12 18:29:47.000.194,=C:\Users\Luccas\Desktop\Teste Principal\src\MVC\Model\Entity\Cep.Model.entity.Interfaces.pas</Transaction>
+    <Transaction>2025/07/12 18:30:29.000.473,=C:\Users\Luccas\Desktop\Teste Principal\src\MVC\Controller\Cep.Controller.pas</Transaction>
+    <Transaction>2025/07/12 18:30:29.000.438,=C:\Users\Luccas\Desktop\Teste Principal\src\MVC\Controller\Cep.Controller.Interfaces.pas</Transaction>
+    <Transaction>2025/07/12 18:30:49.000.910,=C:\Users\Luccas\Desktop\Teste Principal\src\MVC\Controller\Services\Cep.Service.pas</Transaction>
+    <Transaction>2025/07/12 18:30:49.000.847,=C:\Users\Luccas\Desktop\Teste Principal\src\MVC\Controller\Services\Cep.Service.Interfaces.pas</Transaction>
+    <Transaction>2025/07/12 18:31:03.000.503,=C:\Users\Luccas\Desktop\Teste Principal\src\MVC\Controller\Services\Strategy\Cep.Service.Strategy.interfaces.pas</Transaction>
+    <Transaction>2025/07/12 18:31:03.000.602,=C:\Users\Luccas\Desktop\Teste Principal\src\MVC\Controller\Services\Strategy\Cep.Service.Strategy.ViaCep.pas</Transaction>
+    <Transaction>2025/07/12 18:31:03.000.402,=C:\Users\Luccas\Desktop\Teste Principal\src\MVC\Controller\Services\Strategy\Cep.Service.Strategy.AwesomeApi.pas</Transaction>
+    <Transaction>2025/07/12 18:31:03.000.258,=C:\Users\Luccas\Desktop\Teste Principal\src\MVC\Controller\Services\Strategy\Cep.Service.Strategy.ApiCep.pas</Transaction>
+    <Transaction>2025/07/12 18:58:09.000.244,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\BuscaCep.pas=</Transaction>
+    <Transaction>2025/07/12 18:59:20.000.219,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\ControllerDMVC\Controller.API.DMVC.pas=C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\Unit3.pas</Transaction>
+    <Transaction>2025/07/12 18:59:42.000.504,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\WebModel.pas=C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\Unit4.pas</Transaction>
+    <Transaction>2025/07/12 18:59:42.000.504,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\WebModel.dfm=C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\Unit4.dfm</Transaction>
+    <Transaction>2025/07/12 18:59:50.000.099,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\Unit2.pas=</Transaction>
+    <Transaction>2025/07/12 19:00:00.000.729,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\Unit1.pas=</Transaction>
+    <Transaction>2025/07/12 19:01:07.000.082,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\BuscaCepApi.dproj=C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\BuscaCepApi.dproj</Transaction>
+    <Transaction>2025/07/12 19:22:27.000.533,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\ControllerDMVC\Controller.API.DMVC.pas=</Transaction>
+    <Transaction>2025/07/12 19:23:55.000.768,=C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\ControllerDMVC\Controller.APICEP.DMVC.pas</Transaction>
+    <Transaction>2025/07/13 17:08:08.000.219,=C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\Unit1.pas</Transaction>
+    <Transaction>2025/07/13 17:08:31.000.219,C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\Unit1.pas=C:\Users\Luccas\Desktop\Teste Principal\src_APIMVCFramework\ControllerDMVC\Controller.APICEPSeleciona.DMVC.pas</Transaction>
+  </Transactions>
+</BorlandProject>
