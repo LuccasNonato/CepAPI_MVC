@@ -64,3 +64,11 @@ cada etapa.
 O projeto em si foi um desafio muito grande mas muito gostoso de criar.
 
 Continuarei buscando cada vez mais e aperfeiçoando meu conhecimento tanto no delphi que é uma linguagem que gosto muito quanto demais tenologias.
+
+
+Caso tenha dúvidas, sugestões ou dificuldades de implementar pode entrar em contato comigo 
+Contatos
+https://www.linkedin.com/in/luccas-nonato-67b755212/
+Email : Luccasjunqueira@hotmail.com
+
+
