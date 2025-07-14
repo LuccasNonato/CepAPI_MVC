@@ -62,6 +62,8 @@ cada etapa.
 
 
 O projeto em si foi um desafio muito grande mas muito gostoso de criar.
+Infelizmente não consegui utilizar o boss em meu computador, executei todos procedimentos mas o mesmo acabou não funcionando.
+Então o DMVC foi utilizado diretamente do git https://github.com/danieleteti/delphimvcframework
 
 Continuarei buscando cada vez mais e aperfeiçoando meu conhecimento tanto no delphi que é uma linguagem que gosto muito quanto demais tenologias.
 
